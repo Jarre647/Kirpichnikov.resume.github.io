@@ -1,47 +1,65 @@
 body {
     min-width: 320px;
     max-width: 1920px;
-   
 }
-div .block1 {
-    display:inline-block;
-    width:551px;
-    height:804px;
-    float:left;
-    background-color:blue;
+
+.NAME {
+    display: inline-block;
+    width: 22.25%;
+    height: 22.92%;
+    margin: 4.96% 10.82% 4.7% 11.12%;
+    float: left;
+    background-color: #b9b9b9
 }
-.block2 {
+
+.EDUCATION {
+    display: inline-block;
+    width: 51.09%;
+    height: 35.8%;
+    margin: 4.34% 4.72% 3.15% 0;
+    float: right;
+    background-color: #b9b9b9;
+}
+
+.EXPERIENCE {
+    display: inline-block;
+    width: 551px;
+    height: 18.27%;
+    margin: 0 0 0 0;
+    float: left;
+    background-color: #b9b9b9;
+}
+
+.SOFTWARE {
+    display: inline-block;
+    width: 551px;
+    height: 804px;
+    margin: 0 0 0 0;
+    float: right;
+    background-color: #b9b9b9;
+}
+
+.PROFILE {
     display: inline-block;
     width: 551px;
     height: 804px;
     float: left;
-    background-color: blue;
+    background-color: #b9b9b9;
 }
-.block3 {
+
+.CONTACT {
     display: inline-block;
     width: 551px;
     height: 804px;
+    margin: 0 0 0 0;
     float: left;
-    background-color: blue;
+    background-color: #b9b9b9;
 }
-.block4 {
+.SKILLS {
     display: inline-block;
     width: 551px;
     height: 804px;
-    float: left;
-    background-color: blue;
-}
-.block5 {
-    display: inline-block;
-    width: 551px;
-    height: 804px;
-    float: left;
-    background-color: blue;
-}
-.block6 {
-    display: inline-block;
-    width: 551px;
-    height: 804px;
-    float: left;
-    background-color: blue;
+    margin: 0 0 0 0;
+    float: right;
+    background-color: #b9b9b9;
 }
