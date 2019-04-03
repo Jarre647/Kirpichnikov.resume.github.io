@@ -4,6 +4,8 @@ body {
 }
 block1 {
     display:inline-block;
+    width:551px;
+    height:804px;
 }
 block2 {
     display: inline-block;
