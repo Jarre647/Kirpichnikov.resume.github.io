@@ -1,25 +1,47 @@
 body {
-    min-width:320px;
-    max-width:1920px;
+    min-width: 320px;
+    max-width: 1920px;
+   
 }
-block1 {
+div .block1 {
     display:inline-block;
     width:551px;
     height:804px;
     float:left;
+    background-color:blue;
 }
-block2 {
+.block2 {
     display: inline-block;
+    width: 551px;
+    height: 804px;
+    float: left;
+    background-color: blue;
 }
-block3 {
+.block3 {
     display: inline-block;
+    width: 551px;
+    height: 804px;
+    float: left;
+    background-color: blue;
 }
-block4 {
+.block4 {
     display: inline-block;
+    width: 551px;
+    height: 804px;
+    float: left;
+    background-color: blue;
 }
-block5 {
+.block5 {
     display: inline-block;
+    width: 551px;
+    height: 804px;
+    float: left;
+    background-color: blue;
 }
-block6 {
+.block6 {
     display: inline-block;
+    width: 551px;
+    height: 804px;
+    float: left;
+    background-color: blue;
 }
