@@ -32,7 +32,12 @@ div {
     float: right;
     background-color: #b9b9b9;
 }
+.EDUCATION_H {
+    display: inline-block;
+    float: left;
+    
 
+}
 .SOFTWARE {
     display: inline-block;
     width: 52.59%;
@@ -124,4 +129,13 @@ div {
     border-radius: 11.57vw;
     background-color: #0270ba;
     z-index: 2;
+}
+
+.EDUCATION_DEGREE
+{
+    color: #0270ba;
+    text-transform: uppercase;
+}
+.university {
+    text-transform: uppercase;    
 }
